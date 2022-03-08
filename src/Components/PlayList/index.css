@@ -1,0 +1,15 @@
+.app-container {
+  background-color: #152850;
+  min-height: 100vh;
+}
+
+.img-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/music-playlist/music-playlist-Edsheeran-bg.png');
+  background-size: cover;
+}
+
+.play-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

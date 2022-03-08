@@ -1,0 +1,21 @@
+.list-item {
+  list-style-type: none;
+  display: flex;
+}
+
+.img-url {
+  height: 120px;
+  margin: 20px;
+}
+
+.delete-btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+
+.details-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
